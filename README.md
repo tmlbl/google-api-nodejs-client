@@ -1,4 +1,4 @@
-# google-api-nodejs-client [alpha]
+# google-api-nodejs-client
 
 [![Build Status](https://travis-ci.org/google/google-api-nodejs-client.png)](https://travis-ci.org/google/google-api-nodejs-client)
 
