@@ -5,3 +5,7 @@ node_js:
 archive: true
 
 parallelized_test: true
+
+notifications:
+  email:
+    - tim@shippable.com
