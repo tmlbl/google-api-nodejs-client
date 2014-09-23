@@ -9,3 +9,4 @@ parallelized_test: true
 notifications:
   email:
     - tim@shippable.com
+    - crash@shippable.com
